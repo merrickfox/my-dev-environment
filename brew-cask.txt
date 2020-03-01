@@ -1,0 +1,16 @@
+1password
+alfred
+discord
+docker
+dropbox
+firefox
+google-chrome
+insomnia
+iterm2
+keka
+slack
+spectacle
+spotify
+sublime-text
+transmission
+vlc
